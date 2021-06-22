@@ -1,8 +1,9 @@
 # 3D PRINTS TO MAKE
-## A List of stuff
+## A List of stuff Jonah Wants to Make
+💲 = Able to commercialy sell
 
 
-## Star Wars Stuff
+### Star Wars Stuff
 - Shoretrooper Helmet [Video](https://www.youtube.com/watch?v=kCmJen4Fm-Q) and [Thing](https://www.thingiverse.com/thing:2633285) 💲
 - Episode VII Trooper Helmet [Thing](https://www.thingiverse.com/thing:1094858) 💲
 - Stormtrooper Helmet [Thing](https://www.thingiverse.com/thing:391664) 💲
@@ -15,7 +16,7 @@
 - Magnet Death Star [Video](https://www.youtube.com/watch?v=08dBVz8_VzU) [Thing](https://www.thingiverse.com/thing:1284637) 💲
 - Collapsable One Peice Saber [Thing](https://www.thingiverse.com/thing:3604015)
 
-## Star Wars Cards
+### Star Wars Cards
 - Tie Interceptor [thing](https://www.thingiverse.com/thing:4586681)
 - Tie Advanced [Thing](https://www.thingiverse.com/thing:4708937)
 - Millennium Falcon [thing](https://www.thingiverse.com/thing:4582264)
@@ -27,7 +28,7 @@
 - AT-ST [Thing](https://www.thingiverse.com/thing:4618642)
 - Rasorcrest [Thing](https://www.thingiverse.com/thing:4648183)
 
-## Random Stuff
+### Random Stuff
 - Full Auto Rubber Band Gun [Thing](https://www.thingiverse.com/thing:4649407)
 - Klots (Qick Tie Shoes) [Thing](https://www.thingiverse.com/thing:938561)
 - Self Watering Planter [Thing](https://www.thingiverse.com/thing:903411)
@@ -45,28 +46,28 @@
 - Catan Game [Thing](https://www.thingiverse.com/thing:2525047)
 - Minecraft Keychain [Thing](https://www.thingiverse.com/thing:324077)
 
-## Zelda
+### Zelda
 - Ocarina [Thing](https://www.thingiverse.com/thing:234512) 💲
 - Breakable Pot [Thing](https://www.thingiverse.com/thing:772378) 💲
 - Octo-Gaurdian [Thing](https://www.thingiverse.com/thing:4118828) 💲
 
-## Marvel Stuff
+### Marvel Stuff
 - Iron Man Helmet [Thing](https://www.thingiverse.com/thing:4599252) 💲
 
-## Pokemon
+### Pokemon
 - Low-Poly [Pikachu](https://www.thingiverse.com/thing:376601) [Bulbasaur](https://www.thingiverse.com/thing:327753) [Charmander](https://www.thingiverse.com/thing:323038) [Squirtle](https://www.thingiverse.com/thing:319413) [Evee](https://www.thingiverse.com/thing:2931434)
 - Ulta Swole Pikachu [Thing](https://www.thingiverse.com/thing:3928643)
 
-## Ender 3 Stuff
+### Ender 3 Stuff
 - Bed Level Test [Thing](https://www.thingiverse.com/thing:4642274) 💲
 - Slot Covers [Thing](https://www.thingiverse.com/thing:4579489) 💲
 - Cable Cover Ender [Thing](https://www.thingiverse.com/thing:2920060) 💲
 - Ender 3 Wyze cam [Thing](https://www.thingiverse.com/thing:3513349)
 
-## Fallout
+### Fallout
 - Fallout 4 Power Armor Mask [Thing](https://www.thingiverse.com/thing:2603065) 💲
 
-## Camera Gear
+### Camera Gear
 - Photographic sweep stand [Thing](https://www.thingiverse.com/thing:106568)
 - Gopro Hero 8 Case [Thing](https://www.thingiverse.com/thing:3919486) 💲
 - Hero 8 Charging door [Thing](https://www.thingiverse.com/thing:4553897) 💲
