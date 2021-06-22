@@ -5,6 +5,8 @@
 ## Star Wars Stuff
 - Shoretrooper Helmet [Video](https://www.youtube.com/watch?v=kCmJen4Fm-Q) and [Thing](https://www.thingiverse.com/thing:2633285) 💲
 - Episode VII Trooper Helmet [Thing](https://www.thingiverse.com/thing:1094858) 💲
+- Stormtrooper Helmet [Thing](https://www.thingiverse.com/thing:391664) 💲
+- Death Trooper (AWT) [Thing](https://www.thingiverse.com/thing:1904115)
 - Kylo-Ren Helmet [Thing](https://www.thingiverse.com/thing:1710637)
 - Mandelorian Helmet [Video](https://www.youtube.com/watch?v=z7rOsba3WbY)
 - Custom Light Up Saber (Hard) [Video](https://www.youtube.com/watch?v=a0d-wT6YS4w)
@@ -37,6 +39,11 @@
 - Headphone Stand [Thing](https://www.thingiverse.com/thing:2050885) 💲
 - QR Code Generator [Thing](https://www.thingiverse.com/thing:46884)
 - XBOX Controler Racing Wheel [Thing](https://www.thingiverse.com/thing:3049220) [Video](https://www.youtube.com/watch?v=xBhoVgdhup4)
+- Coffee Bag Clip [Thing](https://www.thingiverse.com/thing:4744855)
+- Exoskeleton Hand [Thing](https://www.thingiverse.com/thing:892654)
+- Eliptical Gear [Thing](https://www.thingiverse.com/thing:1082508)
+- Catan Game [Thing](https://www.thingiverse.com/thing:2525047)
+- Minecraft Keychain [Thing](https://www.thingiverse.com/thing:324077)
 
 ## Zelda
 - Ocarina [Thing](https://www.thingiverse.com/thing:234512) 💲
@@ -54,6 +61,13 @@
 - Bed Level Test [Thing](https://www.thingiverse.com/thing:4642274) 💲
 - Slot Covers [Thing](https://www.thingiverse.com/thing:4579489) 💲
 - Cable Cover Ender [Thing](https://www.thingiverse.com/thing:2920060) 💲
+- Ender 3 Wyze cam [Thing](https://www.thingiverse.com/thing:3513349)
 
 ## Fallout
 - Fallout 4 Power Armor Mask [Thing](https://www.thingiverse.com/thing:2603065) 💲
+
+## Camera Gear
+- Photographic sweep stand [Thing](https://www.thingiverse.com/thing:106568)
+- Gopro Hero 8 Case [Thing](https://www.thingiverse.com/thing:3919486) 💲
+- Hero 8 Charging door [Thing](https://www.thingiverse.com/thing:4553897) 💲
+- Thread mount hero 8 [Thing](https://www.thingiverse.com/thing:4004766)
