@@ -27,6 +27,7 @@
 - Tie Defender [Thing](https://www.thingiverse.com/thing:4783895)
 - AT-ST [Thing](https://www.thingiverse.com/thing:4618642)
 - Rasorcrest [Thing](https://www.thingiverse.com/thing:4648183)
+- Rasorcrest [Thing](https://www.thingiverse.com/thing:4652346)💲
 
 ### Random Stuff
 - Full Auto Rubber Band Gun [Thing](https://www.thingiverse.com/thing:4649407)
@@ -72,3 +73,24 @@
 - Gopro Hero 8 Case [Thing](https://www.thingiverse.com/thing:3919486) 💲
 - Hero 8 Charging door [Thing](https://www.thingiverse.com/thing:4553897) 💲
 - Thread mount hero 8 [Thing](https://www.thingiverse.com/thing:4004766)
+
+
+### Board Game Stuff (anything not allowed to sell we could make ourselves)
+- Catan Peice Holder [Thing](https://www.thingiverse.com/thing:44470) 💲
+- Catan Style Game [Thing](https://www.thingiverse.com/thing:2525047)
+- Catan Magnetic Resource Trays [Thing](https://www.thingiverse.com/thing:2945049)
+- 3D Printable Simple tiles Catan [Thing](https://www.thingiverse.com/thing:454228) 💲
+- Wingspan Resouces [Thing](https://www.thingiverse.com/thing:3557135)
+- Wingspan token dispenser [Thing](https://www.thingiverse.com/thing:3649866) 
+- Wingspan Upgrades [Thing](https://www.thingiverse.com/thing:3442331) 💲
+- Bits Funnel Tray for Peices [Thing](https://www.thingiverse.com/thing:2564922) 💲
+- Terraforming Mars Bits Holder [Thing](https://www.thingiverse.com/thing:1812360)
+- Terraforming Mars Hextile Holder [Thing](https://www.thingiverse.com/thing:2562619) 💲
+- Terraforming Mars Hive Box [Thing](https://www.thingiverse.com/thing:3885929) 💲
+- Terraforming Mars Grid Marker Holder [Thing](https://www.thingiverse.com/thing:3420547) 💲
+- Peurto Rico Boared Game House [Thing](https://www.thingiverse.com/thing:2075580) 💲
+- 7 Wonders Peice holders [Thing](https://www.thingiverse.com/thing:3447123) 💲
+- Magnetic Stackable Game boared bowls [Thing](https://www.thingiverse.com/thing:3690831) 💲
+- Ticket to ride insert [Thing](https://www.thingiverse.com/thing:3495916) 💲
+- 
+- 
