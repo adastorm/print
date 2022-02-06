@@ -106,4 +106,8 @@
 
 ### Terraforming Mars
 - 3d hex tiles [thing](https://www.thingiverse.com/thing:3153866)
+- Terraforming Mars Bits Holder [Thing](https://www.thingiverse.com/thing:1812360)
+- Terraforming Mars Hextile Holder [Thing](https://www.thingiverse.com/thing:2562619) 💲
+- Terraforming Mars Card Holder [Thing](https://www.thingiverse.com/thing:4069246) 💲
+- Another Hex Holder [Thing](https://www.thingiverse.com/thing:3099931)
 - 
